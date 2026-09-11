@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fold Transition Wallpaper</string>
+    <string name="wallpaper_label">摺疊開合過渡桌布</string>
+    <string name="wallpaper_desc">依鉸鏈角度即時內插外/內螢幕畫面,並疊加玻璃掃光效果</string>
+    <string name="pick_outer">選擇外螢幕截圖</string>
+    <string name="pick_inner">選擇內螢幕截圖</string>
+    <string name="set_wallpaper">套用為動態桌布</string>
+    <string name="reset_images">重新選擇圖片</string>
+    <string name="hint_text">1. 先選擇兩張圖(外螢幕、內螢幕的桌面截圖)\n2. 按下套用,系統會跳到桌布選擇畫面\n3. 選擇「摺疊開合過渡桌布」並套用\n4. 實際開合手機測試效果(模擬器沒有鉸鏈感測器,必須用實機)</string>
+</resources>
